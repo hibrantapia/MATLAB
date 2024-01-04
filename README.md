@@ -13,9 +13,18 @@
 <p align="center"> <img src = "/Extra_Stuff/cicloide1.png" width = 550> </p>
 <p align="center"> <img src = "/Extra_Stuff/cicloide2.png" width = 550> </p>
 
+## Linear Algebra
+
+#### College Exercises.
+
+<h3 align="center">Random Linear Algebra Exercises With MATLAB</h3>
+<p align="center"> <img src = "/Extra_Stuff/Exercise1.png" width = 450> </p>
+<p align="center"> <img src = "/Extra_Stuff/Exercise2.png" width = 450> </p>
+<p align="center"> <img src = "/Extra_Stuff/Exercise3.png" width = 450> </p>
+
 <h2 align="left">Recipe</h2>
 
-1. In this simple GitHub Repository, I uploaded 1 file, containing the resource code to generate all the graphs presented here.
+1. In this simple GitHub Repository, I uploaded 2 file2, containing the resource code to generate all the graphs presented here.
 2. You don't need anything special to run the program.
 
 <h2 align="left">Extra Stuff</h3>

@@ -24,7 +24,7 @@
 
 <h2 align="left">Recipe</h2>
 
-1. In this simple GitHub Repository, I uploaded 2 file2, containing the resource code to generate all the graphs presented here.
+1. In this simple GitHub Repository, I uploaded 2 files, containing the source code to generate all the graphs presented here.
 2. You don't need anything special to run the program.
 
 <h2 align="left">Extra Stuff</h3>
